@@ -1,5 +1,5 @@
 #include"opencv2/core/core.hpp"
-#include"opencv2/imgproc/imgproc.hpp"     //prints a checkboard
+#include"opencv2/imgproc/imgproc.hpp"     //prints a tst  checkboard
 #include"opencv2/highgui/highgui.hpp"
 #include<iostream>
 using namespace std;
